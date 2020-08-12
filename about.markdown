@@ -8,4 +8,4 @@ I was previously a health psychology researcher at UCSF and UC Berkeley. I remai
 
 When I am not programming, I enjoy yoga, (a large variety of) martial arts, tea/tea culture, long conversations, and snuggling my two dogs. 
 
-[Resume 🌸🍵](/assets/ResumeAileenTran.pdf)
+[✨ Resume ✨](/assets/ResumeAileenTran.pdf)
