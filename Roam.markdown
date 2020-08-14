@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: main
 title: Roam 🚀
 permalink: /roam/
 ---

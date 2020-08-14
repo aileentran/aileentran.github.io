@@ -31,10 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Aileen Tran
-author-img: # add your photo
+author-img: gardeninparis.jpg # add your photo
 about-author: Psychology researcher > DPT candidate > full-stack software developer!   # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+# social-twitter: # add your Twitter handle
+# social-facebook: # add your Facebook handle
 social-github: aileentran # add your Github handle
 social-linkedin: aileentran27 # add your Linkedin handle
 social-email: aileen.tran27@gmail.com # add your Email address
