@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roam 🚀
+title: Roam
 img: roamlogin.png
 ---
 #### *"All roads lead to Rome."* 
