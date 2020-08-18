@@ -1000,6 +1000,10 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+.pages {
+  text-align: center;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;

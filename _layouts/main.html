@@ -8,17 +8,22 @@ layout: default
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
-    <div class="author-name">{{site.author}}</div>
-      <p>{{site.about-author}}</p>
-    </div>
-    <div class="resume">
-      <a href="/assets/ResumeAileenTran.pdf">✨Resume✨</a>
-    </div>
-    <div class="projects-list">
-      <p>Projects</p>
-      {% for project in site.projects %}
-      <a href="{{project.url}}">{{project.title}}</a>
-      {% endfor %}
+      <div class="author-name">{{site.author}}</div>
+        <p>{{site.about-author}}</p>
+      </div>
+      <div class="pages">
+        <div class="about-me">
+          <a href="{{site.baseurl}}/">About</a>
+        </div>
+        <div class="resume">
+          <a href="/assets/ResumeAileenTran.pdf">✨Resume✨</a>
+        </div>
+        <div class="projects-list">
+          <p>Projects</p>
+          {% for project in site.projects %}
+          <a href="{{project.url}}">{{project.title}}</a>
+          {% endfor %}
+        </div>
     </div>
   </header> <!-- End Header -->
   <footer>
