@@ -11,6 +11,11 @@ layout: default
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
     </div>
+    <div class="projects">
+      {% for project in site.projects %}
+      <a href="{{ project.url }}">{{ project.title }}</a>
+      {% endfor %}
+    </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
