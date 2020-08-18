@@ -1004,6 +1004,22 @@ table tfoot td {
   text-align: center;
 }
 
+.pages div {
+  margin: 0 16 0 16px;
+}
+
+.pages a {
+  color: #515151;
+  text-decoration: none;
+}
+
+.pages a:hover {
+  color: #333030;
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
