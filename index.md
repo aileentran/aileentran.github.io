@@ -14,4 +14,4 @@ When I am not programming, I enjoy doing yoga, practicing a wide variety of mart
 	<h3>"When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho</h3>
 </center>
 
-![Collage](/assets/img/mycollage.jpg) 
+<!-- ![Collage](/assets/img/mycollage.jpg)  -->
