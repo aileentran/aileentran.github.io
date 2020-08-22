@@ -1,5 +1,7 @@
+---
 layout: post
-permalink: /resume/
 ---
 
-![Resume](/assets/ResumeAileenTran.pdf)
+#### *You can download my [resume](/assets/ResumeAileenTran.pdf) here! 📝*
+
+![Resume](/assets/img/ResumeAileenTranImage.jpg)

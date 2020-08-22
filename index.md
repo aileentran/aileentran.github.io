@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
-img: mycollage3.jpg
+img: mycollage2.jpg
 title: Hi there! ✨
 ---
 After graduating with a Psychology, BA from UCLA, I became a health psychology researcher at UCSF and UC Berkeley. Even though research wasn't quite my cup of tea, I remained interested in health care and decided to complete pre-requisites for Physical Therapy school. I was accepted into the UCSF/SFSU DPT program. However, after receiving the financial aid package and making several dynamic spreadsheets, I decided to pivot to software engineering instead. I look forward to creating tools to support others in their daily lives and well-being in languages such as Python, Javascript, HTML, and others.
