@@ -1001,7 +1001,8 @@ table tfoot td {
 }
 
 .pages {
-  text-align: center;
+  text-align: left;
+  margin-left: 12px;
 }
 
 .pages div {
@@ -1021,21 +1022,21 @@ table tfoot td {
 
 .pages a:hover {
   color: #333030;
-  -webkit-transform: scale(1.2);
-      -ms-transform: scale(1.2);
-          transform: scale(1.2);
+  -webkit-transform: scale(1.03);
+      -ms-transform: scale(1.03);
+          transform: scale(1.03);
 }
 
 .pages .project-title {
-  /*text-decoration: underline;*/
-  font-weight: 100;
+  text-decoration: underline;
+  /*font-weight: 100;*/
 }
 
-/*.pages .projects-list {
-  margin-left: 18px;
-}*/
+.pages .projects-list {
+  margin-left: 32px;
+}
 
-.pages .project-title{
+/*.pages .project-title{
   position: relative;
   color: #333030;
   font-weight: 400;
@@ -1043,8 +1044,8 @@ table tfoot td {
   margin: 0 0 5px;
   text-transform: uppercase;
   text-align: center;
-}
-
+}*/
+/*
 .pages .project-title::before {
   content: "";
   display: block;
@@ -1073,7 +1074,7 @@ table tfoot td {
   top: 50%;
   right: 0;
   background-color: #515151;
-}
+}*/
 
 .content-box {
   padding: 20px;
