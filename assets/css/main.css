@@ -1022,9 +1022,9 @@ table tfoot td {
 
 .pages a:hover {
   color: #333030;
-  -webkit-transform: scale(1.03);
-      -ms-transform: scale(1.03);
-          transform: scale(1.03);
+  -webkit-transform: scale(1.02);
+      -ms-transform: scale(1.02);
+          transform: scale(1.02);
 }
 
 .pages .project-title {
