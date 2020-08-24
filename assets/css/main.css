@@ -1022,59 +1022,19 @@ table tfoot td {
 
 .pages a:hover {
   color: #333030;
-  -webkit-transform: scale(1.02);
-      -ms-transform: scale(1.02);
-          transform: scale(1.02);
+  -webkit-transform: scale(1.015);
+      -ms-transform: scale(1.015);
+          transform: scale(1.015);
 }
 
 .pages .project-title {
   text-decoration: underline;
-  /*font-weight: 100;*/
+  font-weight: 100;
 }
 
 .pages .projects-list {
   margin-left: 32px;
 }
-
-/*.pages .project-title{
-  position: relative;
-  color: #333030;
-  font-weight: 400;
-  font-size: 12px;
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  text-align: center;
-}*/
-/*
-.pages .project-title::before {
-  content: "";
-  display: block;
-  height: 1px;
-  width: -webkit-calc(50% - 48px);
-  width: calc(50% - 48px);
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-  position: absolute;
-  top: 50%;
-  left: 0;
-  background-color: #515151;
-}
-
-.pages .project-title:after {
-  content: "";
-  display: block;
-  height: 1px;
-  width: -webkit-calc(50% - 48px);
-  width: calc(50% - 48px);
-  -webkit-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-  position: absolute;
-  top: 50%;
-  right: 0;
-  background-color: #515151;
-}*/
 
 .content-box {
   padding: 20px;
