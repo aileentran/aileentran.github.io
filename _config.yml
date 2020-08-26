@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Just a girl in a world that's trying to code, drink tea, and nerding out about health and wellness while snuggling all the puppies. 
 permalink: ':title/'
 baseurl: "" 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "aileentran.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Aileen Tran
