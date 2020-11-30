@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roam
-img: roamlogin.png
+img: roam/roamlogin.png
 ---
 <center>
 <h3>"All roads lead to Rome."</h3>
