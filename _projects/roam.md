@@ -12,7 +12,7 @@ A full-stack Flask application for commuters with multiple modes of transportati
 ![Comparing travel times](/assets/img/roam/roamcomparetraveltimes-sidebar.png)
 ![Viewing directions](/assets/img/roam/roamviewingdirections-resized.png)
 
-#### *Insipiration:*
+#### *Inspiration:*
 I never lived in an area with extensive public transportation until I moved up to the Bay Area and started working in San Francisco🌉. The different options to commute to SF was staggering and I could never quite accurately predict when I would arrive.
 
 Since the Google Maps app on the phone makes you pick only one mode of transportation, I would spend many sleepy minutes *on the toilet* wrestling with  Google Maps to jigsaw my way to the best commuting combination (drive/Bart/bus/walk/etc) by keeping combinations of ETAs summed up in my mind to *hopefully* arrive at my destination on time. 🤯 It was exhausting and I'm sure many folks commuting in urban areas have to deal with the same thing.
