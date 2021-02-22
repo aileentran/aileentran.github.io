@@ -19,5 +19,4 @@ Since the Google Maps app on the phone makes you pick only one mode of transport
 
 So, as soon as I had the tools to build tech, Roam was born! And, the most rewarding part was when I was able to use Roam on my daily commute. It was satisfying to enjoy (and constantly improve) the fruits of my labor. 🥳
 
-Website: [http://alwaysroamin.com/](http://alwaysroamin.com/) <br>
 Github: [https://github.com/aileentran/roam](https://github.com/aileentran/roam)
